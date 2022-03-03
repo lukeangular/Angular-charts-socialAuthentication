@@ -1,8 +1,9 @@
-# Facebook and Goolge authentication in Angular
+# Facebook Google Authentication and Angular charts
 ![1](https://user-images.githubusercontent.com/88138560/156294254-04163cd1-fb98-424c-9522-2cf59023edd9.png)
 
 ![Screenshot 2022-03-02 100131](https://user-images.githubusercontent.com/88138560/156294259-7a3980e2-d9ae-4963-b68b-5dd53b6cc6d0.png)
 
+![2](https://user-images.githubusercontent.com/100868300/156623863-d11c8c1c-4a7c-4b0f-b24e-bc51abc45d79.png)
 
 
 # AngularSocialAuthentication
